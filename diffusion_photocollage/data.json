@@ -1,0 +1,68 @@
+{
+  "diffusionTypes": [
+    {
+      "id": "relocation",
+      "title": "Relocation Diffusion",
+      "examples": [
+        {
+          "title": "European Immigration to America",
+          "description": "When people from Europe moved to America from the 1600s to 1900s, they brought languages, religions,  and faiths. And by this formed new communities.",
+          "imageUrl": "imgs/img1.png"
+        },
+        {
+          "title": "Spread of Buddhism",
+          "description": "Buddhist missionaries from India traveled to China, Japan, Southeast Asia, etc. They bring Buddhist beliefs and practices that later were adapted.",
+          "imageUrl": "imgs/img2.png"
+        }
+      ]
+    },
+    {
+      "id": "hierarchical",
+      "title": "Hierarchical Diffusion",
+      "examples": [
+        {
+          "title": "Fashion Trends",
+          "description": "New fashion styles are beginning  in big cities like Paris or New York. Then through celebrities it spreads to smaller cities.",
+          "imageUrl": "imgs/img3.png"
+        },
+        {
+          "title": "Technology Adoption",
+          "description": "New technologies like smartphones, watches, laptops, are first used by tech-savvy people in cities. Then it becomes usual for other populations.",
+          "imageUrl": "imgs/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stimulus",
+      "title": "Stimulus Diffusion",
+      "examples": [
+        {
+          "title": "Fast Food Adaptations",
+          "description": "McDonald’s changes the menu in different countries. For example teriyaki burgers in Japan, paneer wraps in India. But keep the same concept. ",
+          "imageUrl": "imgs/img5.jpg"
+        },
+        {
+          "title": "Religious Syncretism",
+          "description": "When Christianity spread to Latin America, it mixed with local beliefs and created new traditions. For example Santeria in Cuba or Vodou in Haiti. ",
+          "imageUrl": "imgs/img6.png"
+        }
+      ]
+    },
+    {
+      "id": "contagious",
+      "title": "Contagious Diffusion",
+      "examples": [
+        {
+          "title": "Social Media Trends",
+          "description": "Memes spread quickly, moving from person to person online regardless of who they are. Or also spread offline.",
+          "imageUrl": "imgs/img7.jpg"
+        },
+        {
+          "title": "Language Slang",
+          "description": "New slang can spread through conversation with friends, classmates, coworkers. And they doesn’t have to be the most influential.",
+          "imageUrl": "imgs/img8.jpg"
+        }
+      ]
+    }
+  ]
+}
